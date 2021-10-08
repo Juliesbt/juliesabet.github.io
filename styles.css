@@ -1,0 +1,33 @@
+img{
+    width: 20%;
+    height: 20%;
+}
+
+h1{
+    color:#ffffff;
+}
+H2{
+    color:#ffffff;
+
+}
+h3{
+    color:#588157;
+    font-size: 20px;
+}
+body{
+    background-color: #e8dab2;
+}
+
+em{
+    font-size: 16px;
+}
+hr{
+    background-color:#a3b18a;
+    height: 3px;
+}
+
+h2{
+    font-family: 'Bebas Neue', cursive;
+font-family: 'Oswald', sans-serif;
+font-family: 'Playfair Display', serif;
+}
